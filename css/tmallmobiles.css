@@ -86,7 +86,7 @@ body {
 	padding-top: 1.9rem;
 	top: .27rem;
 	left: .87rem;
-	background: url(img/sao.jpg);
+	background: url(../img/sao.jpg);
 	background-size: 1.45rem 1.9rem;
 }
 
@@ -97,14 +97,14 @@ body {
 	padding-top: 1.9rem;
 	top: .27rem;
 	right: .975rem;
-	background: url(img/xiaoxi.jpg);
+	background: url(../img/xiaoxi.jpg);
 	background-size: 1.25rem 1.9rem;
 }
 
 .search {
 	display: block;
 	margin: 0 auto;
-	background: url(img/search.jpg);
+	background: url(../img/search.jpg);
 	width: 11rem;
 	height: 1.22rem;
 	background-size: 11rem 1.22rem;
@@ -178,7 +178,7 @@ body {
 	width: 4.1rem;
 	height: 0;
 	padding-top: 1.5rem;
-	background: url(img/firstNew.jpg);
+	background: url(../img/firstNew.jpg);
 	background-size: 4.1rem 1.5rem;
 	border-right: 1px solid #d9d9d9;
 	overflow: hidden;
@@ -195,7 +195,7 @@ body {
 	margin: .3rem .2rem 0 .25rem;
 	width: 1.45rem;
 	height: .9rem;
-	background: url(img/new.jpg);
+	background: url(../img/new.jpg);
 	background-size: 1.44rem .9rem;
 }
 /*p1*/
@@ -441,7 +441,7 @@ body {
 	position: absolute;
 	right: .45rem;
 	top: .55rem;
-	background: url(img/moreBtn.jpg) no-repeat;
+	background: url(../img/moreBtn.jpg) no-repeat;
 	background-size: .6rem .6rem;
 	width: .7rem;
 	height: .7rem;
@@ -579,7 +579,7 @@ body {
 	top: .325rem;
 	width: 1.6rem;
 	height: 1.6rem;
-	background: url(img/taobaospan.jpg) no-repeat;
+	background: url(../img/taobaospan.jpg) no-repeat;
 	background-size: 1.5rem 1.5rem;
 }
 /*end taobao da ren*/
@@ -612,7 +612,7 @@ body {
 	width: 1.2rem;
 	height: 1.2rem;
 	margin: .33rem .2rem .07rem 0;
-	background: url(img/heart.jpg) no-repeat;
+	background: url(../img/heart.jpg) no-repeat;
 	background-size: 1.1rem 1.1rem;
 }
 
@@ -663,7 +663,7 @@ body {
 	float: left;
 	width: .8rem;
 	height: .8rem;
-	background: url(img/dian.jpg) no-repeat;
+	background: url(../img/dian.jpg) no-repeat;
 	background-size: .8rem .8rem;
 }
 
@@ -767,7 +767,7 @@ body {
 	bottom: .4rem;
 	width: 1.85rem;
 	height: .7rem;
-	background: url(img/hotpic.jpg) no-repeat;
+	background: url(../img/hotpic.jpg) no-repeat;
 	background-size: 1.85rem .7rem;
 }
 /*end commodity*/
@@ -813,31 +813,31 @@ body {
 }
 
 #footer .a1 {
-	background: url(img/footer1.jpg) no-repeat;
+	background: url(../img/footer1.jpg) no-repeat;
 	background-size: 2.175rem 2.175rem;
 	left: 4%;
 }
 
 #footer .a2 {
-	background: url(img/footer2.jpg) no-repeat;
+	background: url(../img/footer2.jpg) no-repeat;
 	background-size: 2.175rem 2.175rem;
 	left: 24%;
 }
 
 #footer .a3 {
-	background: url(img/footer3.jpg) no-repeat;
+	background: url(../img/footer3.jpg) no-repeat;
 	background-size: 2.175rem 2.175rem;
 	left: 44%;
 }
 
 #footer .a4 {
-	background: url(img/footer4.jpg) no-repeat;
+	background: url(../img/footer4.jpg) no-repeat;
 	background-size: 2.175rem 2.175rem;
 	left: 64%;
 }
 
 #footer .a5 {
-	background: url(img/footer5.jpg) no-repeat;
+	background: url(../img/footer5.jpg) no-repeat;
 	background-size: 2.175rem 2.175rem;
 	left: 84%;
 }
